@@ -1,0 +1,29 @@
+{
+  "name": "nlw-discover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavo-SMS/nlw-discover.git"
+  },
+  "keywords": [],
+  "author": "Gustavo S M Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gustavo-SMS/nlw-discover/issues"
+  },
+  "homepage": "https://github.com/Gustavo-SMS/nlw-discover#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "sqlite": "^4.0.23",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
